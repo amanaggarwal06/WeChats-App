@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "709336517354",
+    "project_id": "wechat-22e28",
+    "storage_bucket": "wechat-22e28.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709336517354:android:4dfc529b1490e92261e593",
+        "android_client_info": {
+          "package_name": "com.AmanAggarwal.chats_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsdT-Yfw-bUFBkRkpXdyBfjIn6J0V7YEs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
